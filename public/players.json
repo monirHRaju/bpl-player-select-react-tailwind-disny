@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/wXRwhQt/tamim.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Opening Batsman",
+    "rating": 85.5,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Off-break",
+    "price": "BDT 50,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/yBxKBHKh/sakib.webp",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 92.1,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Slow Left-arm Orthodox",
+    "price": "BDT 80,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/MyZKtw6k/litton.jpg",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 88.0,
+    "bating_style": "Right-hand Bat",
+    "bowling_style": "N/A",
+    "price": "BDT 60,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/PzDZwLZK/mushfiq.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 89.2,
+    "bating_style": "Right-hand Bat",
+    "bowling_style": "N/A",
+    "price": "BDT 75,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/VWc0fCTD/mustafiz.webp",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Fast Bowler",
+    "rating": 87.9,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Fast-medium",
+    "price": "BDT 70,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/QjN4FzRK/taskin.webp",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Fast Bowler",
+    "rating": 86.5,
+    "bating_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "price": "BDT 65,00,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/mFD5YjcK/milan.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "rating": 84.3,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Leg-break",
+    "price": "USD 80,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/6cpDF4Tr/moeen.jpg",
+    "player_name": "Moeen Ali",
+    "player_country": "England",
+    "playing_role": "All-rounder",
+    "rating": 86.8,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Off-break",
+    "price": "USD 95,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/ZzsDMX1f/parera.jpg",
+    "player_name": "Thisara Perera",
+    "player_country": "Sri Lanka",
+    "playing_role": "All-rounder",
+    "rating": 83.7,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Medium-fast",
+    "price": "USD 70,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/ynZSrpVX/mdnabi.jpg",
+    "player_name": "Mohammad Nabi",
+    "player_country": "Afghanistan",
+    "playing_role": "All-rounder",
+    "rating": 85.1,
+    "bating_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Off-break",
+    "price": "USD 85,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Kc3k5WT2/mayrs.jpg",
+    "player_name": "Kyle Mayers",
+    "player_country": "West Indies",
+    "playing_role": "All-rounder",
+    "rating": 81.6,
+    "bating_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Medium",
+    "price": "USD 65,000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/twr2hmh6/alex.webp",
+    "player_name": "Alex Hales",
+    "player_country": "England",
+    "playing_role": "Opening Batsman",
+    "rating": 82.5,
+    "bating_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Off-break",
+    "price": "USD 75,000"
+  }
+]
