@@ -1,9 +1,24 @@
-import React from 'react';
+import React, { use } from 'react';
 
-const AvailablePlayers = () => {
+const AvailablePlayers = ({playersPromise}) => {
+    const playersData = use(playersPromise)
+    console.log(playersData)
     return (
-        <div>
-            <p>available players</p>
+        <div className='max-w-[1200px] mx-auto'>
+            <div class="card bg-base-100 w-96 shadow-sm p-4 border-2">
+            <figure>
+                <img
+                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+                alt="Shoes" />
+            </figure>
+            <div class="card-body">
+                <h2 class="card-title">Card Title</h2>
+                <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                <div class="card-actions justify-end">
+                <button class="btn btn-primary">Buy Now</button>
+                </div>
+            </div>
+            </div>
         </div>
     );
 };
